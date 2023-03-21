@@ -1,0 +1,10 @@
+C:\Users\COCKNEY SHOOTHER\source\repos\sort\sort\obj\Debug\sort.csprojAssemblyReference.cache
+C:\Users\COCKNEY SHOOTHER\source\repos\sort\sort\obj\Debug\sort.Properties.Resources.resources
+C:\Users\COCKNEY SHOOTHER\source\repos\sort\sort\obj\Debug\sort.csproj.GenerateResource.cache
+C:\Users\COCKNEY SHOOTHER\source\repos\sort\sort\obj\Debug\sort.csproj.CoreCompileInputs.cache
+C:\Users\COCKNEY SHOOTHER\source\repos\sort\sort\obj\Debug\SortingApp.Form1.resources
+C:\Users\COCKNEY SHOOTHER\source\repos\sort\sort\bin\Debug\sort.exe.config
+C:\Users\COCKNEY SHOOTHER\source\repos\sort\sort\bin\Debug\sort.exe
+C:\Users\COCKNEY SHOOTHER\source\repos\sort\sort\bin\Debug\sort.pdb
+C:\Users\COCKNEY SHOOTHER\source\repos\sort\sort\obj\Debug\sort.exe
+C:\Users\COCKNEY SHOOTHER\source\repos\sort\sort\obj\Debug\sort.pdb
